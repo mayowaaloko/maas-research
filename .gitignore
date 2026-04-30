@@ -209,4 +209,4 @@ models/
 data/
 learn/
 
-kt_dir/
+kt_dir/taxi_lstm
