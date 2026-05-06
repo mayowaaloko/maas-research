@@ -87,6 +87,7 @@ The goal is to bridge advanced smart mobility systems with emerging urban enviro
 
 ## Author
 Mayowa Daniel Aloko
+---
 Civil Engineering Graduate  
 Interest: Transportation Systems, Smart Mobility, Data-Driven Urban Planning  
 
